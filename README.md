@@ -48,26 +48,7 @@ from sklearn.utils import resample
 
 import warnings
 warnings.filterwarnings('ignore')
-```
 
-
-    ---------------------------------------------------------------------------
-
-    ModuleNotFoundError                       Traceback (most recent call last)
-
-    /var/folders/5t/45p0rrsj0t16z02bfgh3p2980000gn/T/ipykernel_20306/1273324955.py in <module>
-          5 get_ipython().run_line_magic('matplotlib', 'inline')
-          6 import matplotlib.pyplot as plt
-    ----> 7 import seaborn as sns; sns.set()
-          8 from collections import Counter
-          9 
-
-
-    ModuleNotFoundError: No module named 'seaborn'
-
-
-
-```python
 plays = pd.read_csv('PlayByPlay.csv')
 games = pd.read_csv('GameInfo.csv')
 games = games.drop(['Week', 'Season'], axis=1)
