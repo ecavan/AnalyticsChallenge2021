@@ -196,7 +196,7 @@ for i, txt in enumerate(gb_routes['Route']):
 ```
 
 
-![png](output_10_0.png)
+![png](img/output_10_0.png)
 
 
 
