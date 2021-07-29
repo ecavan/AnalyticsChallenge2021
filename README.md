@@ -247,7 +247,7 @@ plt.legend(loc='upper left');
 ```
 
 
-![png](output_14_0.png)
+![png](img/output_14_0.png)
 
 
 
@@ -257,7 +257,7 @@ plt.title('Air Yards per Attempt by Position & Coverage Scheme');
 ```
 
 
-![png](output_15_0.png)
+![png](img/output_15_0.png)
 
 
 
@@ -316,7 +316,7 @@ plt.show()
 
 
 
-![png](output_16_1.png)
+![png](img/output_16_1.png)
 
 
     Sample of High Preforming WRs
@@ -337,7 +337,7 @@ plt.show()
 
 
 
-![png](output_16_3.png)
+![png](img/output_16_3.png)
 
 
 Next, I wanted to classify players based on their specialities with the routes they run. i.e a player like Tyreek Hill would have a speciality as a player who is exceptional at running 'Long' routes like Streaks and Corner Post routes. The best receivers (like Tyreek Hill) may be classified as a specialist with multipe route types. The idea is if you are a specialist as a short route receiver, you are worth more running a short route compared to a long route.
@@ -385,7 +385,7 @@ plt.title('EPA for Different Receiver Positions for a given Coverage Scheme');
 ```
 
 
-![png](output_20_0.png)
+![png](img/output_20_0.png)
 
 
 # Most Popular Route Combinations
@@ -452,7 +452,7 @@ plt.title('EPA by Personnel against a given Coverage Scheme');
 ```
 
 
-![png](output_25_0.png)
+![png](img/output_25_0.png)
 
 
 
@@ -1085,7 +1085,7 @@ axes[5].set_title('First Down Rate');
 ```
 
 
-![png](output_41_0.png)
+![png](img/output_41_0.png)
 
 
 # Expected Yards ML Model
@@ -1195,7 +1195,7 @@ plt.title('Tampa 2');
 ```
 
 
-![png](output_46_0.png)
+![png](img/output_46_0.png)
 
 
 
@@ -1206,7 +1206,7 @@ plt.title('Man Cover 2');
 ```
 
 
-![png](output_47_0.png)
+![png](img/output_47_0.png)
 
 
 
@@ -1217,7 +1217,7 @@ plt.title('Cover 4');
 ```
 
 
-![png](output_48_0.png)
+![png](img/output_48_0.png)
 
 
 
